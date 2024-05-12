@@ -1,7 +1,7 @@
 # Tree-of-thoughts-using-llm-langchain
 Implementation of Tree of Thoughts with LLM using LangChain for creative writing.
 
-Be sure to add your .env with OpenAI API key before executing the code. 
+Be sure to add your ```.env``` with OpenAI API key before executing the code. 
 
 Code can be tested in 2 ways:
 
